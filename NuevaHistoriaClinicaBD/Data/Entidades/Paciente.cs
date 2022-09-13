@@ -8,5 +8,6 @@ namespace NuevaHistoriaClinicaBD.Data.Entidades
 {
     internal class Paciente
     {
+        //hola
     }
 }
